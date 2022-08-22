@@ -1,0 +1,4 @@
+def call (x,y,a,z){
+result = (x*y)+(a*z)
+echo "sum of ${x} ${y} ${a} ${z} are ${result}"
+}
